@@ -68,7 +68,6 @@
 <img align="" height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=an1024&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=an1024" width="100%"></img>
 </div>
 
 

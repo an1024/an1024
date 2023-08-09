@@ -2,7 +2,7 @@
 
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=25" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=行千里路，读万卷书，布衣亦可傲王侯;&center=true&size=25" alt="Typing SVG" />
     </a>
   </div>
 

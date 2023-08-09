@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+<img src="assets/Bottom_up.svg" width="100%"/>
 
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -66,38 +66,14 @@
   <div width="100%">
     <img align="" height="137px"  src="https://github-readme-stats.vercel.app/api?username=an1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img align="" height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=an1024&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   </div>
 </div>
 
 
-
-
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/an1024/an1024/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/an1024/an1024/assets/images/hr.gif" />
 
+<div align="center" >
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+</div>
 
-
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" width="100%"/>
